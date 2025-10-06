@@ -5,5 +5,6 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Coin" parent="." instance=ExtResource("1_wtcfe")]
-position = Vector2(112, 166)
-scale = Vector2(0.234, 0.2)
+texture_filter = 1
+position = Vector2(112, 159)
+scale = Vector2(0.1, 0.086)
